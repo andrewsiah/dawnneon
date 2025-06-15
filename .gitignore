@@ -2,3 +2,4 @@ dist
 node_modules
 !.prettierignore
 .claude-trace/*
+.env.local
